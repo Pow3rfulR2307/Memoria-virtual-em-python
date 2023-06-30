@@ -1,0 +1,567 @@
+| Endereco Virtual: 0 | Endereco Fisico: 0 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1 | Endereco Fisico: 4097 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10 | Endereco Fisico: 4106 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 11 | Endereco Fisico: 4107 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 100 | Endereco Fisico: 4196 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 101 | Endereco Fisico: 4197 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 110 | Endereco Fisico: 4206 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 111 | Endereco Fisico: 4207 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1000 | Endereco Fisico: 5096 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1001 | Endereco Fisico: 5097 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1010 | Endereco Fisico: 5106 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1011 | Endereco Fisico: 5107 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1100 | Endereco Fisico: 5196 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1101 | Endereco Fisico: 5197 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1110 | Endereco Fisico: 5206 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 1111 | Endereco Fisico: 5207 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10000 | Endereco Fisico: 5904 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10001 | Endereco Fisico: 5905 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10010 | Endereco Fisico: 5914 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10011 | Endereco Fisico: 5915 | Tamanho: 4096 | id: 1
+| Endereco Virtual: 10100 | Endereco Fisico: 6004 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 10101 | Endereco Fisico: 6005 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 10110 | Endereco Fisico: 6014 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 10111 | Endereco Fisico: 6015 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11000 | Endereco Fisico: 6904 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11001 | Endereco Fisico: 6905 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11010 | Endereco Fisico: 6914 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11011 | Endereco Fisico: 6915 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11100 | Endereco Fisico: 7004 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11101 | Endereco Fisico: 7005 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11110 | Endereco Fisico: 7014 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 11111 | Endereco Fisico: 7015 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100000 | Endereco Fisico: 5792 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100001 | Endereco Fisico: 5793 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100010 | Endereco Fisico: 5802 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100011 | Endereco Fisico: 5803 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100100 | Endereco Fisico: 5892 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100101 | Endereco Fisico: 5893 | Tamanho: 4096 | id: 2
+| Endereco Virtual: 100110 | Endereco Fisico: 5902 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 100111 | Endereco Fisico: 5903 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101000 | Endereco Fisico: 6792 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101001 | Endereco Fisico: 6793 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101010 | Endereco Fisico: 6802 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101011 | Endereco Fisico: 6803 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101100 | Endereco Fisico: 6892 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101101 | Endereco Fisico: 6893 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101110 | Endereco Fisico: 6902 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 101111 | Endereco Fisico: 6903 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110000 | Endereco Fisico: 7600 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110001 | Endereco Fisico: 7601 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110010 | Endereco Fisico: 7610 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110011 | Endereco Fisico: 7611 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110100 | Endereco Fisico: 7700 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110101 | Endereco Fisico: 7701 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110110 | Endereco Fisico: 7710 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 110111 | Endereco Fisico: 7711 | Tamanho: 4096 | id: 3
+| Endereco Virtual: 111000 | Endereco Fisico: 4504 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111001 | Endereco Fisico: 4505 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111010 | Endereco Fisico: 4514 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111011 | Endereco Fisico: 4515 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111100 | Endereco Fisico: 4604 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111101 | Endereco Fisico: 4605 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111110 | Endereco Fisico: 4614 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 111111 | Endereco Fisico: 4615 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000000 | Endereco Fisico: 4672 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000001 | Endereco Fisico: 4673 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000010 | Endereco Fisico: 4682 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000011 | Endereco Fisico: 4683 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000100 | Endereco Fisico: 4772 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000101 | Endereco Fisico: 4773 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000110 | Endereco Fisico: 4782 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1000111 | Endereco Fisico: 4783 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001000 | Endereco Fisico: 5672 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001001 | Endereco Fisico: 5673 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001010 | Endereco Fisico: 5682 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001011 | Endereco Fisico: 5683 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001100 | Endereco Fisico: 5772 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001101 | Endereco Fisico: 5773 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001110 | Endereco Fisico: 5782 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1001111 | Endereco Fisico: 5783 | Tamanho: 4096 | id: 4
+| Endereco Virtual: 1010000 | Endereco Fisico: 6480 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010001 | Endereco Fisico: 6481 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010010 | Endereco Fisico: 6490 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010011 | Endereco Fisico: 6491 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010100 | Endereco Fisico: 6580 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010101 | Endereco Fisico: 6581 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010110 | Endereco Fisico: 6590 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1010111 | Endereco Fisico: 6591 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011000 | Endereco Fisico: 7480 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011001 | Endereco Fisico: 7481 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011010 | Endereco Fisico: 7490 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011011 | Endereco Fisico: 7491 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011100 | Endereco Fisico: 7580 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011101 | Endereco Fisico: 7581 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011110 | Endereco Fisico: 7590 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1011111 | Endereco Fisico: 7591 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100000 | Endereco Fisico: 6368 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100001 | Endereco Fisico: 6369 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100010 | Endereco Fisico: 6378 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100011 | Endereco Fisico: 6379 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100100 | Endereco Fisico: 6468 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100101 | Endereco Fisico: 6469 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100110 | Endereco Fisico: 6478 | Tamanho: 4096 | id: 5
+| Endereco Virtual: 1100111 | Endereco Fisico: 6479 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101000 | Endereco Fisico: 7368 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101001 | Endereco Fisico: 7369 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101010 | Endereco Fisico: 7378 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101011 | Endereco Fisico: 7379 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101100 | Endereco Fisico: 7468 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101101 | Endereco Fisico: 7469 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101110 | Endereco Fisico: 7478 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1101111 | Endereco Fisico: 7479 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110000 | Endereco Fisico: 8176 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110001 | Endereco Fisico: 8177 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110010 | Endereco Fisico: 8186 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110011 | Endereco Fisico: 8187 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110100 | Endereco Fisico: 4180 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110101 | Endereco Fisico: 4181 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110110 | Endereco Fisico: 4190 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1110111 | Endereco Fisico: 4191 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111000 | Endereco Fisico: 5080 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111001 | Endereco Fisico: 5081 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111010 | Endereco Fisico: 5090 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111011 | Endereco Fisico: 5091 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111100 | Endereco Fisico: 5180 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111101 | Endereco Fisico: 5181 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111110 | Endereco Fisico: 5190 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 1111111 | Endereco Fisico: 5191 | Tamanho: 4096 | id: 6
+| Endereco Virtual: 10000000 | Endereco Fisico: 5760 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000001 | Endereco Fisico: 5761 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000010 | Endereco Fisico: 5770 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000011 | Endereco Fisico: 5771 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000100 | Endereco Fisico: 5860 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000101 | Endereco Fisico: 5861 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000110 | Endereco Fisico: 5870 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10000111 | Endereco Fisico: 5871 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001000 | Endereco Fisico: 6760 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001001 | Endereco Fisico: 6761 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001010 | Endereco Fisico: 6770 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001011 | Endereco Fisico: 6771 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001100 | Endereco Fisico: 6860 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001101 | Endereco Fisico: 6861 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001110 | Endereco Fisico: 6870 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10001111 | Endereco Fisico: 6871 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10010000 | Endereco Fisico: 7568 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10010001 | Endereco Fisico: 7569 | Tamanho: 4096 | id: 7
+| Endereco Virtual: 10010010 | Endereco Fisico: 7578 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10010011 | Endereco Fisico: 7579 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10010100 | Endereco Fisico: 7668 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10010101 | Endereco Fisico: 7669 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10010110 | Endereco Fisico: 7678 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10010111 | Endereco Fisico: 7679 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011000 | Endereco Fisico: 4472 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011001 | Endereco Fisico: 4473 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011010 | Endereco Fisico: 4482 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011011 | Endereco Fisico: 4483 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011100 | Endereco Fisico: 4572 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011101 | Endereco Fisico: 4573 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011110 | Endereco Fisico: 4582 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10011111 | Endereco Fisico: 4583 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100000 | Endereco Fisico: 7456 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100001 | Endereco Fisico: 7457 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100010 | Endereco Fisico: 7466 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100011 | Endereco Fisico: 7467 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100100 | Endereco Fisico: 7556 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100101 | Endereco Fisico: 7557 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100110 | Endereco Fisico: 7566 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10100111 | Endereco Fisico: 7567 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10101000 | Endereco Fisico: 4360 | Tamanho: 4096 | id: 8
+| Endereco Virtual: 10101001 | Endereco Fisico: 4361 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101010 | Endereco Fisico: 4370 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101011 | Endereco Fisico: 4371 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101100 | Endereco Fisico: 4460 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101101 | Endereco Fisico: 4461 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101110 | Endereco Fisico: 4470 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10101111 | Endereco Fisico: 4471 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110000 | Endereco Fisico: 5168 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110001 | Endereco Fisico: 5169 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110010 | Endereco Fisico: 5178 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110011 | Endereco Fisico: 5179 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110100 | Endereco Fisico: 5268 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110101 | Endereco Fisico: 5269 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110110 | Endereco Fisico: 5278 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10110111 | Endereco Fisico: 5279 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10111000 | Endereco Fisico: 6168 | Tamanho: 4096 | id: 9
+| Endereco Virtual: 10111001 | Endereco Fisico: 6169 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111010 | Endereco Fisico: 6178 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111011 | Endereco Fisico: 6179 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111100 | Endereco Fisico: 6268 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111101 | Endereco Fisico: 6269 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111110 | Endereco Fisico: 6278 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 10111111 | Endereco Fisico: 6279 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000000 | Endereco Fisico: 6336 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000001 | Endereco Fisico: 6337 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000010 | Endereco Fisico: 6346 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000011 | Endereco Fisico: 6347 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000100 | Endereco Fisico: 6436 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000101 | Endereco Fisico: 6437 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000110 | Endereco Fisico: 6446 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11000111 | Endereco Fisico: 6447 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11001000 | Endereco Fisico: 7336 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11001001 | Endereco Fisico: 7337 | Tamanho: 4096 | id: 10
+| Endereco Virtual: 11001010 | Endereco Fisico: 7346 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11001011 | Endereco Fisico: 7347 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11001100 | Endereco Fisico: 7436 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11001101 | Endereco Fisico: 7437 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11001110 | Endereco Fisico: 7446 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11001111 | Endereco Fisico: 7447 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010000 | Endereco Fisico: 8144 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010001 | Endereco Fisico: 8145 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010010 | Endereco Fisico: 8154 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010011 | Endereco Fisico: 8155 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010100 | Endereco Fisico: 4148 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010101 | Endereco Fisico: 4149 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010110 | Endereco Fisico: 4158 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11010111 | Endereco Fisico: 4159 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011000 | Endereco Fisico: 5048 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011001 | Endereco Fisico: 5049 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011010 | Endereco Fisico: 5058 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011011 | Endereco Fisico: 5059 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011100 | Endereco Fisico: 5148 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011101 | Endereco Fisico: 5149 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011110 | Endereco Fisico: 5158 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11011111 | Endereco Fisico: 5159 | Tamanho: 4096 | id: 11
+| Endereco Virtual: 11100000 | Endereco Fisico: 8032 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100001 | Endereco Fisico: 8033 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100010 | Endereco Fisico: 8042 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100011 | Endereco Fisico: 8043 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100100 | Endereco Fisico: 8132 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100101 | Endereco Fisico: 8133 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100110 | Endereco Fisico: 8142 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11100111 | Endereco Fisico: 8143 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101000 | Endereco Fisico: 4936 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101001 | Endereco Fisico: 4937 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101010 | Endereco Fisico: 4946 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101011 | Endereco Fisico: 4947 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101100 | Endereco Fisico: 5036 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101101 | Endereco Fisico: 5037 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101110 | Endereco Fisico: 5046 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11101111 | Endereco Fisico: 5047 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11110000 | Endereco Fisico: 5744 | Tamanho: 4096 | id: 12
+| Endereco Virtual: 11110001 | Endereco Fisico: 5745 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110010 | Endereco Fisico: 5754 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110011 | Endereco Fisico: 5755 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110100 | Endereco Fisico: 5844 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110101 | Endereco Fisico: 5845 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110110 | Endereco Fisico: 5854 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11110111 | Endereco Fisico: 5855 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111000 | Endereco Fisico: 6744 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111001 | Endereco Fisico: 6745 | Tamanho: 4096 | id: 13
+Bloco de id 10 da página 6169 swap-out para o disco
+Bloco de id 10 da página 6178 swap-out para o disco
+Bloco de id 10 da página 6179 swap-out para o disco
+Bloco de id 10 da página 6268 swap-out para o disco
+Bloco de id 10 da página 6269 swap-out para o disco
+Bloco de id 10 da página 6278 swap-out para o disco
+Bloco de id 10 da página 6279 swap-out para o disco
+Bloco de id 10 da página 6336 swap-out para o disco
+Bloco de id 10 da página 6337 swap-out para o disco
+Bloco de id 10 da página 6346 swap-out para o disco
+Bloco de id 10 da página 6347 swap-out para o disco
+Bloco de id 10 da página 6436 swap-out para o disco
+Bloco de id 10 da página 6437 swap-out para o disco
+Bloco de id 10 da página 6446 swap-out para o disco
+Bloco de id 10 da página 6447 swap-out para o disco
+Bloco de id 10 da página 7336 swap-out para o disco
+Bloco de id 10 da página 7337 swap-out para o disco
+| Endereco Virtual: 11111010 | Endereco Fisico: 6179 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111011 | Endereco Fisico: 6169 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111100 | Endereco Fisico: 6178 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111101 | Endereco Fisico: 6179 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111110 | Endereco Fisico: 6268 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 11111111 | Endereco Fisico: 6269 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 100000000 | Endereco Fisico: 6278 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 100000001 | Endereco Fisico: 6279 | Tamanho: 4096 | id: 13
+| Endereco Virtual: 100000010 | Endereco Fisico: 6336 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100000011 | Endereco Fisico: 6337 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100000100 | Endereco Fisico: 6346 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100000101 | Endereco Fisico: 6347 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100000110 | Endereco Fisico: 6436 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100000111 | Endereco Fisico: 6437 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001000 | Endereco Fisico: 6446 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001001 | Endereco Fisico: 6447 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001010 | Endereco Fisico: 7336 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001011 | Endereco Fisico: 7337 | Tamanho: 4096 | id: 14
+Bloco de id 6 da página 6479 swap-out para o disco
+Bloco de id 6 da página 7368 swap-out para o disco
+Bloco de id 6 da página 7369 swap-out para o disco
+Bloco de id 6 da página 7378 swap-out para o disco
+Bloco de id 6 da página 7379 swap-out para o disco
+Bloco de id 6 da página 7468 swap-out para o disco
+Bloco de id 6 da página 7469 swap-out para o disco
+Bloco de id 6 da página 7478 swap-out para o disco
+Bloco de id 6 da página 7479 swap-out para o disco
+Bloco de id 6 da página 8176 swap-out para o disco
+Bloco de id 6 da página 8177 swap-out para o disco
+Bloco de id 6 da página 8186 swap-out para o disco
+Bloco de id 6 da página 8187 swap-out para o disco
+Bloco de id 6 da página 4180 swap-out para o disco
+Bloco de id 6 da página 4181 swap-out para o disco
+Bloco de id 6 da página 4190 swap-out para o disco
+Bloco de id 6 da página 4191 swap-out para o disco
+Bloco de id 6 da página 5080 swap-out para o disco
+Bloco de id 6 da página 5081 swap-out para o disco
+Bloco de id 6 da página 5090 swap-out para o disco
+Bloco de id 6 da página 5091 swap-out para o disco
+Bloco de id 6 da página 5180 swap-out para o disco
+Bloco de id 6 da página 5181 swap-out para o disco
+Bloco de id 6 da página 5190 swap-out para o disco
+Bloco de id 6 da página 5191 swap-out para o disco
+| Endereco Virtual: 100001100 | Endereco Fisico: 5191 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001101 | Endereco Fisico: 6479 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001110 | Endereco Fisico: 7368 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100001111 | Endereco Fisico: 7369 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010000 | Endereco Fisico: 7378 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010001 | Endereco Fisico: 7379 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010010 | Endereco Fisico: 7468 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010011 | Endereco Fisico: 7469 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010100 | Endereco Fisico: 7478 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010101 | Endereco Fisico: 7479 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010110 | Endereco Fisico: 8176 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100010111 | Endereco Fisico: 8177 | Tamanho: 4096 | id: 14
+| Endereco Virtual: 100011000 | Endereco Fisico: 8186 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011001 | Endereco Fisico: 8187 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011010 | Endereco Fisico: 4180 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011011 | Endereco Fisico: 4181 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011100 | Endereco Fisico: 4190 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011101 | Endereco Fisico: 4191 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011110 | Endereco Fisico: 5080 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100011111 | Endereco Fisico: 5081 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100000 | Endereco Fisico: 5090 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100001 | Endereco Fisico: 5091 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100010 | Endereco Fisico: 5180 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100011 | Endereco Fisico: 5181 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100100 | Endereco Fisico: 5190 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100101 | Endereco Fisico: 5191 | Tamanho: 4096 | id: 15
+Bloco de id 2 da página 6004 swap-out para o disco
+Bloco de id 2 da página 6005 swap-out para o disco
+Bloco de id 2 da página 6014 swap-out para o disco
+Bloco de id 2 da página 6015 swap-out para o disco
+Bloco de id 2 da página 6904 swap-out para o disco
+Bloco de id 2 da página 6905 swap-out para o disco
+Bloco de id 2 da página 6914 swap-out para o disco
+Bloco de id 2 da página 6915 swap-out para o disco
+Bloco de id 2 da página 7004 swap-out para o disco
+Bloco de id 2 da página 7005 swap-out para o disco
+Bloco de id 2 da página 7014 swap-out para o disco
+Bloco de id 2 da página 7015 swap-out para o disco
+Bloco de id 2 da página 5792 swap-out para o disco
+Bloco de id 2 da página 5793 swap-out para o disco
+Bloco de id 2 da página 5802 swap-out para o disco
+Bloco de id 2 da página 5803 swap-out para o disco
+Bloco de id 2 da página 5892 swap-out para o disco
+Bloco de id 2 da página 5893 swap-out para o disco
+| Endereco Virtual: 100100110 | Endereco Fisico: 7005 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100100111 | Endereco Fisico: 6004 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101000 | Endereco Fisico: 6005 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101001 | Endereco Fisico: 6014 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101010 | Endereco Fisico: 6015 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101011 | Endereco Fisico: 6904 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101100 | Endereco Fisico: 6905 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101101 | Endereco Fisico: 6914 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101110 | Endereco Fisico: 6915 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100101111 | Endereco Fisico: 7004 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100110000 | Endereco Fisico: 7005 | Tamanho: 4096 | id: 15
+| Endereco Virtual: 100110001 | Endereco Fisico: 7014 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110010 | Endereco Fisico: 7015 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110011 | Endereco Fisico: 5792 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110100 | Endereco Fisico: 5793 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110101 | Endereco Fisico: 5802 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110110 | Endereco Fisico: 5803 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100110111 | Endereco Fisico: 5892 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111000 | Endereco Fisico: 5893 | Tamanho: 4096 | id: 16
+Bloco de id 11 da página 7346 swap-out para o disco
+Bloco de id 11 da página 7347 swap-out para o disco
+Bloco de id 11 da página 7436 swap-out para o disco
+Bloco de id 11 da página 7437 swap-out para o disco
+Bloco de id 11 da página 7446 swap-out para o disco
+Bloco de id 11 da página 7447 swap-out para o disco
+Bloco de id 11 da página 8144 swap-out para o disco
+Bloco de id 11 da página 8145 swap-out para o disco
+Bloco de id 11 da página 8154 swap-out para o disco
+Bloco de id 11 da página 8155 swap-out para o disco
+Bloco de id 11 da página 4148 swap-out para o disco
+Bloco de id 11 da página 4149 swap-out para o disco
+Bloco de id 11 da página 4158 swap-out para o disco
+Bloco de id 11 da página 4159 swap-out para o disco
+Bloco de id 11 da página 5048 swap-out para o disco
+Bloco de id 11 da página 5049 swap-out para o disco
+Bloco de id 11 da página 5058 swap-out para o disco
+Bloco de id 11 da página 5059 swap-out para o disco
+Bloco de id 11 da página 5148 swap-out para o disco
+Bloco de id 11 da página 5149 swap-out para o disco
+Bloco de id 11 da página 5158 swap-out para o disco
+Bloco de id 11 da página 5159 swap-out para o disco
+| Endereco Virtual: 100111001 | Endereco Fisico: 4149 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111010 | Endereco Fisico: 7346 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111011 | Endereco Fisico: 7347 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111100 | Endereco Fisico: 7436 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111101 | Endereco Fisico: 7437 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111110 | Endereco Fisico: 7446 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 100111111 | Endereco Fisico: 7447 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000000 | Endereco Fisico: 8144 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000001 | Endereco Fisico: 8145 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000010 | Endereco Fisico: 8154 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000011 | Endereco Fisico: 8155 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000100 | Endereco Fisico: 4148 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000101 | Endereco Fisico: 4149 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000110 | Endereco Fisico: 4158 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101000111 | Endereco Fisico: 4159 | Tamanho: 4096 | id: 16
+| Endereco Virtual: 101001000 | Endereco Fisico: 5048 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001001 | Endereco Fisico: 5049 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001010 | Endereco Fisico: 5058 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001011 | Endereco Fisico: 5059 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001100 | Endereco Fisico: 5148 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001101 | Endereco Fisico: 5149 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001110 | Endereco Fisico: 5158 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101001111 | Endereco Fisico: 5159 | Tamanho: 4096 | id: 17
+Bloco de id 7 da página 5760 swap-out para o disco
+Bloco de id 7 da página 5761 swap-out para o disco
+Bloco de id 7 da página 5770 swap-out para o disco
+Bloco de id 7 da página 5771 swap-out para o disco
+Bloco de id 7 da página 5860 swap-out para o disco
+Bloco de id 7 da página 5861 swap-out para o disco
+Bloco de id 7 da página 5870 swap-out para o disco
+Bloco de id 7 da página 5871 swap-out para o disco
+Bloco de id 7 da página 6760 swap-out para o disco
+Bloco de id 7 da página 6761 swap-out para o disco
+Bloco de id 7 da página 6770 swap-out para o disco
+Bloco de id 7 da página 6771 swap-out para o disco
+Bloco de id 7 da página 6860 swap-out para o disco
+Bloco de id 7 da página 6861 swap-out para o disco
+Bloco de id 7 da página 6870 swap-out para o disco
+Bloco de id 7 da página 6871 swap-out para o disco
+Bloco de id 7 da página 7568 swap-out para o disco
+Bloco de id 7 da página 7569 swap-out para o disco
+| Endereco Virtual: 101010000 | Endereco Fisico: 6861 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010001 | Endereco Fisico: 5760 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010010 | Endereco Fisico: 5761 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010011 | Endereco Fisico: 5770 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010100 | Endereco Fisico: 5771 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010101 | Endereco Fisico: 5860 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010110 | Endereco Fisico: 5861 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101010111 | Endereco Fisico: 5870 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101011000 | Endereco Fisico: 5871 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101011001 | Endereco Fisico: 6760 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101011010 | Endereco Fisico: 6761 | Tamanho: 4096 | id: 17
+| Endereco Virtual: 101011011 | Endereco Fisico: 6770 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101011100 | Endereco Fisico: 6771 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101011101 | Endereco Fisico: 6860 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101011110 | Endereco Fisico: 6861 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101011111 | Endereco Fisico: 6870 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100000 | Endereco Fisico: 6871 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100001 | Endereco Fisico: 7568 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100010 | Endereco Fisico: 7569 | Tamanho: 4096 | id: 18
+Bloco de id 5 da página 6480 swap-out para o disco
+Bloco de id 5 da página 6481 swap-out para o disco
+Bloco de id 5 da página 6490 swap-out para o disco
+Bloco de id 5 da página 6491 swap-out para o disco
+Bloco de id 5 da página 6580 swap-out para o disco
+Bloco de id 5 da página 6581 swap-out para o disco
+Bloco de id 5 da página 6590 swap-out para o disco
+Bloco de id 5 da página 6591 swap-out para o disco
+Bloco de id 5 da página 7480 swap-out para o disco
+Bloco de id 5 da página 7481 swap-out para o disco
+Bloco de id 5 da página 7490 swap-out para o disco
+Bloco de id 5 da página 7491 swap-out para o disco
+Bloco de id 5 da página 7580 swap-out para o disco
+Bloco de id 5 da página 7581 swap-out para o disco
+Bloco de id 5 da página 7590 swap-out para o disco
+Bloco de id 5 da página 7591 swap-out para o disco
+Bloco de id 5 da página 6368 swap-out para o disco
+Bloco de id 5 da página 6369 swap-out para o disco
+Bloco de id 5 da página 6378 swap-out para o disco
+Bloco de id 5 da página 6379 swap-out para o disco
+Bloco de id 5 da página 6468 swap-out para o disco
+Bloco de id 5 da página 6469 swap-out para o disco
+Bloco de id 5 da página 6478 swap-out para o disco
+| Endereco Virtual: 101100011 | Endereco Fisico: 6468 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100100 | Endereco Fisico: 6480 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100101 | Endereco Fisico: 6481 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100110 | Endereco Fisico: 6490 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101100111 | Endereco Fisico: 6491 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101000 | Endereco Fisico: 6580 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101001 | Endereco Fisico: 6581 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101010 | Endereco Fisico: 6590 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101011 | Endereco Fisico: 6591 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101100 | Endereco Fisico: 7480 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101101 | Endereco Fisico: 7481 | Tamanho: 4096 | id: 18
+| Endereco Virtual: 101101110 | Endereco Fisico: 7490 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101101111 | Endereco Fisico: 7491 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110000 | Endereco Fisico: 7580 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110001 | Endereco Fisico: 7581 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110010 | Endereco Fisico: 7590 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110011 | Endereco Fisico: 7591 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110100 | Endereco Fisico: 6368 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110101 | Endereco Fisico: 6369 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110110 | Endereco Fisico: 6378 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101110111 | Endereco Fisico: 6379 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111000 | Endereco Fisico: 6468 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111001 | Endereco Fisico: 6469 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111010 | Endereco Fisico: 6478 | Tamanho: 4096 | id: 19
+Bloco de id 8 da página 7578 swap-out para o disco
+Bloco de id 8 da página 7579 swap-out para o disco
+Bloco de id 8 da página 7668 swap-out para o disco
+Bloco de id 8 da página 7669 swap-out para o disco
+Bloco de id 8 da página 7678 swap-out para o disco
+Bloco de id 8 da página 7679 swap-out para o disco
+Bloco de id 8 da página 4472 swap-out para o disco
+Bloco de id 8 da página 4473 swap-out para o disco
+Bloco de id 8 da página 4482 swap-out para o disco
+Bloco de id 8 da página 4483 swap-out para o disco
+Bloco de id 8 da página 4572 swap-out para o disco
+Bloco de id 8 da página 4573 swap-out para o disco
+Bloco de id 8 da página 4582 swap-out para o disco
+Bloco de id 8 da página 4583 swap-out para o disco
+Bloco de id 8 da página 7456 swap-out para o disco
+Bloco de id 8 da página 7457 swap-out para o disco
+Bloco de id 8 da página 7466 swap-out para o disco
+Bloco de id 8 da página 7467 swap-out para o disco
+Bloco de id 8 da página 7556 swap-out para o disco
+Bloco de id 8 da página 7557 swap-out para o disco
+Bloco de id 8 da página 7566 swap-out para o disco
+Bloco de id 8 da página 7567 swap-out para o disco
+Bloco de id 8 da página 4360 swap-out para o disco
+| Endereco Virtual: 101111011 | Endereco Fisico: 4572 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111100 | Endereco Fisico: 7578 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111101 | Endereco Fisico: 7579 | Tamanho: 4096 | id: 19
+| Endereco Virtual: 101111110 | Endereco Fisico: 7668 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 101111111 | Endereco Fisico: 7669 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000000 | Endereco Fisico: 7678 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000001 | Endereco Fisico: 7679 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000010 | Endereco Fisico: 4472 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000011 | Endereco Fisico: 4473 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000100 | Endereco Fisico: 4482 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000101 | Endereco Fisico: 4483 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000110 | Endereco Fisico: 4572 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110000111 | Endereco Fisico: 4573 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001000 | Endereco Fisico: 4582 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001001 | Endereco Fisico: 4583 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001010 | Endereco Fisico: 7456 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001011 | Endereco Fisico: 7457 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001100 | Endereco Fisico: 7466 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001101 | Endereco Fisico: 7467 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001110 | Endereco Fisico: 7556 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110001111 | Endereco Fisico: 7557 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110010000 | Endereco Fisico: 7566 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110010001 | Endereco Fisico: 7567 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110010010 | Endereco Fisico: 4360 | Tamanho: 4096 | id: 20
+Bloco de id 19 da página 7490 swap-out para o disco
+Bloco de id 19 da página 7491 swap-out para o disco
+Bloco de id 19 da página 7580 swap-out para o disco
+Bloco de id 19 da página 7581 swap-out para o disco
+Bloco de id 19 da página 7590 swap-out para o disco
+Bloco de id 19 da página 7591 swap-out para o disco
+Bloco de id 19 da página 6368 swap-out para o disco
+Bloco de id 19 da página 6369 swap-out para o disco
+Bloco de id 19 da página 6378 swap-out para o disco
+Bloco de id 19 da página 6379 swap-out para o disco
+Bloco de id 19 da página 6468 swap-out para o disco
+Bloco de id 19 da página 6469 swap-out para o disco
+Bloco de id 19 da página 6478 swap-out para o disco
+Bloco de id 19 da página 7578 swap-out para o disco
+Bloco de id 19 da página 7579 swap-out para o disco
+| Endereco Virtual: 110010011 | Endereco Fisico: 6378 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110010100 | Endereco Fisico: 7490 | Tamanho: 4096 | id: 20
+| Endereco Virtual: 110010101 | Endereco Fisico: 7491 | Tamanho: 4096 | id: 20
